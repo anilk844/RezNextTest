@@ -10,6 +10,7 @@ public class GitFirst {
 	WebDriver driver =new FirefoxDriver();
 	driver.get("http://www.google.com");
 	System.out.println("hi");
+	System.out.println("welcome to reznext");
 	
 	
 	
